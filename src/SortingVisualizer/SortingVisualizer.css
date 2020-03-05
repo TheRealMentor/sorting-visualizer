@@ -1,0 +1,11 @@
+.arr-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.arr-bar {
+  width: 2px;
+  background-color: #27ae60;
+  display: inline-block;
+  margin: 0 1px;
+}
